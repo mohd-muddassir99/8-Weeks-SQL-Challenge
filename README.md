@@ -7,6 +7,8 @@ Each case study contains a dataset with a series of questions.
 ## Visit Dannys website to find out all about the challenge, as well as different resources: 
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/)
 ## Case studies
+Please find the solution links for the case studies below. Simply click on the links to access each solution.
+
 - [Case Study #1 - Danny's Diner](https://github.com/DooPhiLong/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
 
 💡 Let’s Connect!!
