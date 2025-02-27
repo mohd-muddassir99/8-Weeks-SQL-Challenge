@@ -8,3 +8,24 @@ Each case study contains a dataset with a series of questions.
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/)
 ## Case studies
 - [Case Study #1 - Danny's Diner](https://github.com/DooPhiLong/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+
+💡 Let’s Connect!!
+If you have any suggestions or want to collaborate on SQL projects, feel free to reach out! 🚀
+
+ --- 
+ 
+<div align="center">
+<p align="center">
+    Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
+    
+🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
