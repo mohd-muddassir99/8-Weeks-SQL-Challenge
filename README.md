@@ -12,6 +12,7 @@ Each case study contains a dataset with a series of questions.
 Please find the solution links for the case studies below. Simply click on the links to access each solution.
 
 - [Case Study #1 - Danny's Diner](https://github.com/DooPhiLong/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+- [Case Study #2 - Pizza Runner](https://github.com/mohd-muddassir99/8-Weeks-SQL-Challenge/tree/53994ad37b9102f81ac7cc19ecc0c40e7b4397b7/Case%20Study%20%232%20-%20Pizza%20Runner)
 
 💡 Let’s Connect!!
 If you have any suggestions or want to collaborate on SQL projects, feel free to reach out! 🚀
