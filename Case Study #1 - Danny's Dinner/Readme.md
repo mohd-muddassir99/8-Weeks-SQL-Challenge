@@ -1,4 +1,4 @@
-# Case Study #1 - Danny's Diner
+# Case Study #1 - Danny's Dinner
 
 <div align="center">
     <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width="600px" height="500px">
@@ -27,7 +27,7 @@ You can inspect the entity relationship diagram and example data below.
 </div> 
 
 ### Source data
-[Click here](https://8weeksqlchallenge.com/case-study-1/)
+**Case Study #1 - Danny's Dinner** [Click here 🔗](https://8weeksqlchallenge.com/case-study-1/)
 ## Task questions
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
