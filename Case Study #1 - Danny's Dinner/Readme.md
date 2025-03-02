@@ -39,8 +39,17 @@ You can inspect the entity relationship diagram and example data below.
 8. What is the total items and amount spent for each member before they became a member?
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
-## Solution
-[Click here](https://github.com/DooPhiLong/8_Week_SQL_Challenge---1/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
+
+## View & Download Solution (MySQL File):
+
+<p align="center">
+    <a href="https://github.com/mohd-muddassir99/8-Weeks-SQL-Challenge/blob/45a88b5568ad9e2ad815867e67271d9fee6957a4/Case%20Study%20%231%20-%20Danny's%20Dinner/Case%20Study%20%231%20-%20Danny's%20Diner.sql
+">
+        <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
+
 ## Method applied 
 - JOINS
 - Aggregate Functions
