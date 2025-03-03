@@ -1,7 +1,7 @@
 # Case Study #2 - Foodie Fi 
 
 <div align="center">
-    <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width="600px" height="500px">
+    <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" width="600px" height="500px">
 </div> 
 
 ## Introduction
