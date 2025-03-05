@@ -1,4 +1,4 @@
-# Case Study #2 - Foodie Fi 
+# Case Study #2 - Pizza Runner
 
 <div align="center">
     <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" width="600px" height="500px">
@@ -21,7 +21,7 @@ You can inspect the entity relationship diagram and example data below.
 </div> 
 
 ### Source data
-**Case Study #1 - Pizza Runner** [Click here 🔗](https://8weeksqlchallenge.com/case-study-2/)
+**Case Study #2 - Pizza Runner** [Click here 🔗](https://8weeksqlchallenge.com/case-study-2/)
 ## Task questions
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
