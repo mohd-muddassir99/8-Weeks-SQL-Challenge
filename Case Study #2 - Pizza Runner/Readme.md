@@ -37,8 +37,7 @@ You can inspect the entity relationship diagram and example data below.
 ## View & Download Solution (MySQL File):
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/8-Weeks-SQL-Challenge/blob/45a88b5568ad9e2ad815867e67271d9fee6957a4/Case%20Study%20%231%20-%20Danny's%20Dinner/Case%20Study%20%231%20-%20Danny's%20Diner.sql
-">
+    <a href="https://github.com/mohd-muddassir99/8-Weeks-SQL-Challenge/blob/f018483827f8ac5d40b328fe2748f54d9d98a175/Case%20Study%20%232%20-%20Pizza%20Runner/Case%20Study%20%232%20-%20Pizza%20Runner.sql">
         <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
