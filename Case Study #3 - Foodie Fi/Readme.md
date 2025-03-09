@@ -26,26 +26,23 @@ You can inspect the entity relationship diagram and example data below.
 ### Source data
 **Case Study #2 - Foodie-Fi** [Click here 🔗](https://8weeksqlchallenge.com/case-study-3/)
 ## Task questions
-### A. Pizza Metrics
-- How many pizzas were ordered?
-- How many unique customer orders were made?
-- How many successful orders were delivered by each runner?
-- How many of each type of pizza was delivered?
-- How many Vegetarian and Meatlovers were ordered by each customer?
-- What was the maximum number of pizzas delivered in a single order?
-- For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
-- How many pizzas were delivered that had both exclusions and extras?
-- What was the total volume of pizzas ordered for each hour of the day?
-- What was the volume of orders for each day of the week?
+### A. Customer Journey
+Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
-### B. Runner and Customer Experience
-- How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
-- What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
-- Is there any relationship between the number of pizzas and how long the order takes to prepare?
-- What was the average distance travelled for each customer?
-- What was the difference between the longest and shortest delivery times for all orders?
-- What was the average speed for each runner for each delivery and do you notice any trend for these values?
-- What is the successful delivery percentage for each runner?
+Try to keep it as short as possible - you may also want to run some sort of join to make your explanations a bit easier!
+
+### B. Data Analysis Questions
+- How many customers has Foodie-Fi ever had?
+- What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
+- What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name
+- What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
+- How many customers have churned straight after their initial free trial - what percentage is this rounded to the nearest whole number?
+- What is the number and percentage of customer plans after their initial free trial?
+- What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31?
+- How many customers have upgraded to an annual plan in 2020?
+- How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?
+- Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)
+- How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
 ### C. Ingredient Optimisation
 - What are the standard ingredients for each pizza?
