@@ -20,7 +20,7 @@ All datasets exist within the foodie_fi database schema - be sure to include thi
 You can inspect the entity relationship diagram and example data below.
 
 <div align="center">
-    <img src="https://github.com/manaswikamila05/8-Week-SQL-Challenge/raw/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/ERD.jpg" width="700px" height="400px">
+    <img src="https://user-images.githubusercontent.com/81607668/129744449-37b3229b-80b2-4cce-b8e0-707d7f48dcec.png" width="700px" height="400px">
 </div> 
 
 ### Source data
