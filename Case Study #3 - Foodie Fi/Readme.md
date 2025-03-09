@@ -60,7 +60,7 @@ For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 ## View & Download Solution (MySQL File):
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/8-Weeks-SQL-Challenge/blob/f018483827f8ac5d40b328fe2748f54d9d98a175/Case%20Study%20%232%20-%20Pizza%20Runner/Case%20Study%20%232%20-%20Pizza%20Runner.sql">
+    <a href="https://github.com/mohd-muddassir99/8-Weeks-SQL-Challenge/blob/478e37394f6f93f527c9164b94d137317016271d/Case%20Study%20%233%20-%20Foodie%20Fi/Case%20Study%20%233%20-%20Foodie%20Fi.sql">
         <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
