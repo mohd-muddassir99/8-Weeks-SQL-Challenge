@@ -24,7 +24,7 @@ You can inspect the entity relationship diagram and example data below.
 </div> 
 
 ### Source data
-**Case Study #2 - Pizza Runner** [Click here 🔗](https://8weeksqlchallenge.com/case-study-2/)
+**Case Study #2 - Foodie-Fi** [Click here 🔗](https://8weeksqlchallenge.com/case-study-3/)
 ## Task questions
 ### A. Pizza Metrics
 - How many pizzas were ordered?
