@@ -67,11 +67,14 @@ For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 </p> <br>
 
 ## Method applied 
+- Data Cleaning
+- Creating Tables
 - JOINS
-- Aggregate Functions
-- Window Functions
+- Aggregate Functions including STRING_AGG()
 - CTE's
+- CASE Statements
 - Subqueries
+- String Functions like CONCAT()
 
 💡 Let’s Connect!!
 If you have any suggestions or want to collaborate on SQL projects, feel free to reach out! 🚀
