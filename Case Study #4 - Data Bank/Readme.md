@@ -1,7 +1,7 @@
 # 🥑Case Study #4 - Data Bank
 
 <div align="center">
-    <img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" width="600px" height="500px">
+    <img src="https://8weeksqlchallenge.com/images/case-study-designs/4.png" width="600px" height="500px">
 </div> 
 
 ## Introduction
