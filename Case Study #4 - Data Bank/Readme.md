@@ -1,4 +1,4 @@
-# 🥑Case Study #4 - Foodie-Fi
+# 🥑Case Study #4 - Data Bank
 
 <div align="center">
     <img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" width="600px" height="500px">
