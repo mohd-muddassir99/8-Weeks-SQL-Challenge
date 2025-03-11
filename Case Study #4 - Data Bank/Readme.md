@@ -28,7 +28,7 @@ You can inspect the entity relationship diagram and example data below.
 </div> 
 
 ### Source data
-**Case Study #3 - Foodie-Fi** [Click here 🔗](https://8weeksqlchallenge.com/case-study-3/)
+**Case Study #4 - Data Bank** [Click here 🔗](https://8weeksqlchallenge.com/case-study-4/)
 ## Task questions
 ### A. Customer Journey
 Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
