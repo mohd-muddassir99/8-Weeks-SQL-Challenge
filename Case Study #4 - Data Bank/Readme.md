@@ -5,7 +5,9 @@
 </div> 
 
 ## Introduction
-Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
+There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
+
+Danny thought that there should be some sort of intersection between these new age banks, cryptocurrency and the data world…so he decides to launch a new initiative - Data Bank!
 
 
 ## Problem Statement
