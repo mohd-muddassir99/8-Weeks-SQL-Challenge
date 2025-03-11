@@ -24,7 +24,7 @@ The Data Bank team have prepared a data model for this case study as well as a f
 You can inspect the entity relationship diagram and example data below.
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/81607668/130343339-8c9ff915-c88c-4942-9175-9999da78542c.png" width="700px" height="400px">
+    <img src="https://user-images.githubusercontent.com/81607668/130343339-8c9ff915-c88c-4942-9175-9999da78542c.png" width="600px" height="400px">
 </div> 
 
 ### Source data
