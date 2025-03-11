@@ -30,10 +30,12 @@ You can inspect the entity relationship diagram and example data below.
 ### Source data
 **Case Study #4 - Data Bank** [Click here 🔗](https://8weeksqlchallenge.com/case-study-4/)
 ## Task questions
-### A. Customer Journey
-Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
-
-Try to keep it as short as possible - you may also want to run some sort of join to make your explanations a bit easier!
+### A. Customer Nodes Exploration
+- How many unique nodes are there on the Data Bank system?
+- What is the number of nodes per region?
+- How many customers are allocated to each region?
+- How many days on average are customers reallocated to a different node?
+- What is the median, 80th and 95th percentile for this same reallocation days metric for each region?
 
 ### B. Data Analysis Questions
 - How many customers has Foodie-Fi ever had?
