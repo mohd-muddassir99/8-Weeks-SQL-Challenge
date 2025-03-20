@@ -1,4 +1,4 @@
-# 8 Weeks SQL Challeng
+# 8 Weeks SQL Challenge 
 This repository serves as the solution for the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 
 The 8 Week SQL Challenge, There are total 8 different SQL case studies, was created by Danny Ma 
